@@ -30,7 +30,9 @@ Real-Time Chat Application → https://chat-app-alpha-sandy-55.vercel.app/ — J
 
 
 
-### 📫 Connect With Me
+### Let's Connect
+
+I'm open to freelance projects, collaborations, and opportunities to build useful web experiences.
 
 * GitHub: [@AlfieDevEye](https://github.com/AlfieDevEye)
 
