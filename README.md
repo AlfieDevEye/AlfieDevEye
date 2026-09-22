@@ -19,8 +19,11 @@ I build modern, responsive, and user-focused web applications with a focus on cl
 * Turn ideas and designs into functional web experiences
 
 ### Featured Projects
+Here are some of the projects I've built and continue to improve:
 
-I'm continuously building and improving projects that demonstrate my skills in frontend development and modern web technologies.
+Student Registration System — React, Google Sheets API
+SFM Conference Registration Platform — React, Tailwind CSS, Google Apps Script
+Real-Time Chat Application — JavaScript, HTML, CSS
 
 ### 📫 Connect With Me
 
