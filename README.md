@@ -21,9 +21,11 @@ I build modern, responsive, and user-focused web applications with a focus on cl
 ### Featured Projects
 Here are some of the projects I've built and continue to improve:
 
-Student Registration System — React, Google Sheets API
-SFM Conference Registration Platform — React, Tailwind CSS, Google Apps Script
-Real-Time Chat Application — JavaScript, HTML, CSS
+Student Registration System → AlfieDevEye/StudentReg — React, Google Sheets API
+SFM Conference Registration Platform → AlfieDevEye/regwaitlist — React, Tailwind CSS, Google Apps Script
+Real-Time Chat Application → AlfieDevEye/chatApp — JavaScript, HTML, CSS
+
+
 
 ### 📫 Connect With Me
 
